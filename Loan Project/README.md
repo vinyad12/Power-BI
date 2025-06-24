@@ -107,8 +107,17 @@ SUM(Loan_default[LoanAmount])
 - **Data Modelling**
 - **Slicers, Filters & Bookmarks**
 - **Custom Visuals (Sankey, Donut, Area Graphs)**
+  
 
 ---
+
+## Screenshorts
+![Screenshot 2025-06-24 135449](https://github.com/user-attachments/assets/4f87de65-0439-440f-84c6-c709150dcc2e)
+
+![Screenshot 2025-06-24 135507](https://github.com/user-attachments/assets/f8e337a2-766a-4930-ac0a-f9a354454b1b)
+
+![Screenshot 2025-06-24 135847](https://github.com/user-attachments/assets/21bd5f6b-2904-41ea-bce7-7e0418f38702)
+
 
 
 
